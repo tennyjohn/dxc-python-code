@@ -26,3 +26,6 @@ for i in range(2,8):
   b = c
 
   print(c)
+  
+  
+  
