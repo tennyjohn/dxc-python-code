@@ -1,5 +1,5 @@
 # dxc-python-code
-**Python code as part of DXC technologies interview process
+**Python code as part of DXC technologies interview process**
 
 Question -- 
 This exercise requires you to write a Python program to get it to display the first n Fibonacci numbers.
@@ -19,7 +19,7 @@ Extra consideration will be given to candidates who also include a unit test for
 2. Load the copied code into online python compiler. 'https://www.w3schools.com/python/trypython.asp?filename=demo_compiler'
 3. Execute the code.
 
-**Note: Code is explained in the 'main.py' file.
+**Note: Code is explained in the 'main.py' file.**
 
 Unit testing results is attached below.
 
